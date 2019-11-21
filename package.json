@@ -1,5 +1,5 @@
 {
-  "name": "broadcast-sample-app",
+  "name": "kienbaumfeedback2",
   "version": "1.0.0",
   "description": "OpenTok Broadcast Sample Application",
   "engines": {
@@ -29,7 +29,7 @@
     "broadcast",
     "webrtc"
   ],
-  "author": "sandrolaudares@gmail.com",
+  "author": "sandro@3geolink.com.br",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/sandrolaudares/broadcast-sample-app/issues"
